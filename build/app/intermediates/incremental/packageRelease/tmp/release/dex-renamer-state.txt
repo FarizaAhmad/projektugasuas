@@ -1,0 +1,4 @@
+#Mon Jan 20 21:30:28 WITA 2020
+base.0=/home/f47124/Documents/alam_ntb/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

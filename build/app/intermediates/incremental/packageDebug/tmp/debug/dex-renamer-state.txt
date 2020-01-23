@@ -1,0 +1,4 @@
+#Mon Jan 20 13:30:58 WITA 2020
+base.0=/home/f47124/Documents/alam_ntb/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

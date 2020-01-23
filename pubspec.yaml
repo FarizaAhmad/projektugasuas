@@ -1,0 +1,190 @@
+name: alam_ntb
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 2.0.0+2
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    #menu utama
+    - assets/image/pantai.png
+    - assets/image/gunung.png
+    - assets/image/airterjun.png
+    - assets/image/budaya.png
+    - assets/image/religi.png
+    
+    #daftar pantai
+    - assets/image/a1.png
+    - assets/image/a2.png
+    - assets/image/a3.png
+    - assets/image/a4.png
+    - assets/image/a5.png
+    - assets/image/a6.png
+    - assets/image/a7.png
+    - assets/image/a8.png
+    - assets/image/a9.png
+    - assets/image/a10.png
+    - assets/image/a11.png
+    - assets/image/a12.png
+    - assets/image/a13.png
+    - assets/image/a14.png
+    - assets/image/a15.png
+    - assets/image/a16.png
+    - assets/image/a17.png
+    - assets/image/a18.png
+    - assets/image/a19.png
+    - assets/image/a20.png
+    - assets/image/a21.png
+    - assets/image/a22.png
+    - assets/image/a23.png
+    - assets/image/a24.png
+    - assets/image/a25.png
+    - assets/image/a26.png
+    - assets/image/a27.png
+    - assets/image/a28.png
+    - assets/image/a29.png
+    - assets/image/a30.png
+    - assets/image/a31.png
+    - assets/image/a32.png
+    - assets/image/a33.png
+    - assets/image/a34.png
+    - assets/image/a35.png
+    - assets/image/a36.png
+    - assets/image/a37.png
+    - assets/image/a38.png
+    - assets/image/a39.png
+    - assets/image/a40.png
+    - assets/image/a41.png
+    - assets/image/a42.png
+    - assets/image/a43.png
+
+    #daftar gunung dan bukit
+    - assets/image/b1.png
+    - assets/image/b2.png
+    - assets/image/b3.png
+    - assets/image/b4.png
+    - assets/image/b5.png
+    - assets/image/b6.png
+    - assets/image/b7.png
+    - assets/image/b8.png
+    - assets/image/b9.png
+    - assets/image/b10.png
+    - assets/image/b11.png
+    - assets/image/b12.png
+    - assets/image/b13.png
+
+    #daftar air terjun
+    - assets/image/c1.png
+    - assets/image/c2.png
+    - assets/image/c3.png
+    - assets/image/c4.png
+    - assets/image/c5.png
+    - assets/image/c6.png
+    - assets/image/c7.png
+    - assets/image/c8.png
+    - assets/image/c9.png
+    - assets/image/c10.png
+    - assets/image/c11.png
+    - assets/image/c12.png
+    - assets/image/c13.png
+    - assets/image/c14.png
+    - assets/image/c15.png
+    - assets/image/c16.png
+    - assets/image/c17.png
+    - assets/image/c18.png
+    - assets/image/c19.png
+    - assets/image/c20.png
+    - assets/image/c21.png
+    - assets/image/c22.png
+    - assets/image/c23.png
+
+    #daftar budayad
+    - assets/image/d1.png
+    - assets/image/d2.png
+    - assets/image/d3.png
+    - assets/image/d4.png
+    - assets/image/d5.png
+    - assets/image/d6.png
+    - assets/image/d7.png
+    - assets/image/d8.png
+    - assets/image/d9.png
+
+    #daftar religi
+    - assets/image/e1.png
+    - assets/image/e2.png
+    - assets/image/e3.png
+    - assets/image/e4.png
+    - assets/image/e5.png
+    - assets/image/e6.png
+    - assets/image/e7.png
+    - assets/image/e8.png
+    - assets/image/e9.png
+    - assets/image/e10.png
+    - assets/image/e11.png
+    - assets/image/e12.png
+    - assets/image/e13.png
+    - assets/image/e14.png
+
+  #  - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
